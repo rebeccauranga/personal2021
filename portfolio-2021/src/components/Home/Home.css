@@ -1,0 +1,30 @@
+.name {
+  margin-bottom: 0;
+}
+
+.name h1 {
+  font-size: 124px;
+}
+
+.Home {
+  margin-left: 15%;
+  display: flex;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.image {
+  margin-left: 10%;
+  margin-top: 5%;
+}
+
+.image img {
+  border-radius: 50%;
+}
+
+h1 {
+    margin-bottom: 0;
+}
